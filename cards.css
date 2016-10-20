@@ -1,0 +1,17 @@
+.card {
+  border: 2px solid black;
+  width: 25%;
+  padding: 1%;
+  text-align: center;
+  margin: 1%;
+  height: 10em;
+  overflow: auto;
+  display: inline-block;
+  background-color: tan; }
+
+#pageWrapper {
+  width: 90%;
+  margin: auto;
+  text-align: center; }
+
+/*# sourceMappingURL=cards.css.map */
